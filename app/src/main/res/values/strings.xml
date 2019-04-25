@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="app_id">6a8f53dbb68b1699f051d670fef1b5c6</string>
+
+    <!--main-->
+    <string name="main_weather_in">Weather in</string>
+    <string name="main_today">Today :</string>
+    <string name="main_celsius">°C</string>
+    <string name="main_fahrenheit">°F</string>
+    <string name="main_humidity">Humidity :</string>
+    <string name="main_hint_search">Search City</string>
+    <string name="main_button_search">Search</string>
+    <string name="main_message_empty_search">Please input city.</string>
+
+</resources>

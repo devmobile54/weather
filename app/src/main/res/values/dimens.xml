@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--text size-->
+    <dimen name="varySmall">14sp</dimen>
+    <dimen name="small">15sp</dimen>
+    <dimen name="extraSmall">17sp</dimen>
+    <dimen name="medium">19sp</dimen>
+    <dimen name="extraMedium">21sp</dimen>
+    <dimen name="large">23sp</dimen>
+    <dimen name="extraLarge">25sp</dimen>
+    <dimen name="textHeader">35sp</dimen>
+
+    <dimen name="strokeButton">1dp</dimen>
+    <dimen name="radiusButton">3dp</dimen>
+
+    <dimen name="marginCardView">2dp</dimen>
+
+    <!--card view-->
+    <dimen name="cardViewElevation">2dp</dimen>
+    <dimen name="cardViewRadius">2dp</dimen>
+
+    <!--padding-->
+    <dimen name="paddingVertical">12dp</dimen>
+
+</resources>
